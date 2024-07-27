@@ -2,10 +2,7 @@
 
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 
-This demo project contains a bouncing ball raylib example program.
-
-It works with raylib version 4.5.
-Tested on both Windows 10 and Windows 11.
+This game allows users to play a virtual match of Ping Pong against a bot and see if they are able to win. 
 
 <p align="center">
   <img src="preview.jpg" alt="" width="800">
